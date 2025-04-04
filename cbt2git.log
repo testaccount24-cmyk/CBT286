@@ -1,0 +1,14 @@
+2025-04-04 07:17:49.068653 - Received CBT.V508.FILE286.PDS from FILE286.XMI 
+2025-04-04 07:17:49.069540 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE286.PDS, moved to PDS/$$$#DATE
+2025-04-04 07:17:49.069679 - Found @FILE286.txt (text/plain) in CBT.V508.FILE286.PDS, moved to PDS/@FILE286
+2025-04-04 07:17:49.069835 - Found CMSCRIPT.bin (application/octet-stream) in CBT.V508.FILE286.PDS, moved to PDS/CMSCRIPT
+2025-04-04 07:17:49.069964 - Found SCRIPTCW.bin (application/octet-stream) in CBT.V508.FILE286.PDS, moved to PDS/SCRIPTCW
+2025-04-04 07:17:49.070117 - Found SCRIPTFO.bin (application/octet-stream) in CBT.V508.FILE286.PDS, moved to PDS/SCRIPTFO
+2025-04-04 07:17:49.070239 - Found SCRIPTHY.bin (application/octet-stream) in CBT.V508.FILE286.PDS, moved to PDS/SCRIPTHY
+2025-04-04 07:17:49.070367 - Found SCRIPTMC.bin (application/octet-stream) in CBT.V508.FILE286.PDS, moved to PDS/SCRIPTMC
+2025-04-04 07:17:49.070486 - Found SCRIPTOU.bin (application/octet-stream) in CBT.V508.FILE286.PDS, moved to PDS/SCRIPTOU
+2025-04-04 07:17:49.070618 - Found SCRIPTPM.bin (application/octet-stream) in CBT.V508.FILE286.PDS, moved to PDS/SCRIPTPM
+2025-04-04 07:17:49.070768 - Found SCRIPTRD.bin (application/octet-stream) in CBT.V508.FILE286.PDS, moved to PDS/SCRIPTRD
+2025-04-04 07:17:49.070890 - Found SCRIPTSY.bin (application/octet-stream) in CBT.V508.FILE286.PDS, moved to PDS/SCRIPTSY
+2025-04-04 07:17:49.071017 - Found SCRIPTW.bin (application/octet-stream) in CBT.V508.FILE286.PDS, moved to PDS/SCRIPTW
+2025-04-04 07:17:49.071167 - Found SYSINT.bin (application/octet-stream) in CBT.V508.FILE286.PDS, moved to PDS/SYSINT
